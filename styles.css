@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    width: 830px;
+    padding-left: 6px; 
+}
+.genre{
+    font-size: 12px;
+    color: #565959;
+}
+
+.flexing{
+    padding-right: 8px;
+    display: flex;
+}
+
+/*.author{
+    font-size: 14px;
+}*/
+.anch{
+    color: #007185;
+}
+.side-head{
+    font-weight: bold;
+}
+
+.right-div{
+    width: 550px;
+    padding-left: 25px;
+    padding-right: 10px;
+}
+
+.rating{
+    width: 100px;
+}
+
+.title {
+    font-weight: lighter;
+    font-size: 28px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 300px;
+
+}
+
+.para{
+    text-align: left;
+    font-size: 14px;
+}
